@@ -1,0 +1,75 @@
+# ======================================================
+# AdGuard Reborn - Default Ad & Tracking Protection Rules
+# ======================================================
+
+# Google Ads & Analytics
+||doubleclick.net^
+||googleadservices.com^
+||admob.com^
+||pagead2.googlesyndication.com^
+||partner.googleadservices.com^
+||google-analytics.com^
+||analytics.google.com^
+||googletagmanager.com^
+
+# Mobile SDK Ad Networks
+||unityads.unity3d.com^
+||applovin.com^
+||vungle.com^
+||inmobi.com^
+||ironsrc.com^
+||supersonicads.com^
+||chartboost.com^
+||adcolony.com^
+||mintegral.com^
+||tapjoy.com^
+||fyber.com^
+
+# ByteDance / Pangle / TikTok Ads
+||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao1.com^
+||pglstatp-toutiao.com^
+||union.toutiao.com^
+||ad.toutiao.com^
+||mon.snssdk.com^
+||log.snssdk.com^
+
+# Tencent / GDT / Youlianghui
+||adnet.qq.com^
+||e.qq.com^
+||gdt.qq.com^
+||pgdt.gtimg.cn^
+||mi.gdt.qq.com^
+||win.gdt.qq.com^
+||qzs.gdt.qq.com^
+
+# Baidu Ads
+||mobads.baidu.com^
+||pos.baidu.com^
+||cpro.baidu.com^
+||dup.baidustatic.com^
+||entry.baidu.com^
+
+# OEM Ad Networks (Xiaomi, Huawei, Vivo, Oppo)
+||adx.xiaomi.com^
+||log.ad.xiaomi.com^
+||data.mistat.xiaomi.com^
+||tracking.miui.com^
+||ads.huawei.com^
+||metrics.data.hicloud.com^
+||adlog.vivo.com.cn^
+||st-union.vivo.com.cn^
+||adx.ads.oppomobile.com^
+||data.ads.oppomobile.com^
+
+# Common Analytics & Trackers
+||branch.io^
+||adjust.com^
+||appsflyer.com^
+||crashlytics.com^
+||flurry.com^
+||umeng.com^
+||umengcloud.com^
+||talkingdata.net^
+||sensorsdata.cn^
+||jpush.cn^

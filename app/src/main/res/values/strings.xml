@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdGuard Reborn</string>
+    <string name="tile_name">AdGuard 防护</string>
+    <string name="protection_active">广告与防追踪拦截已开启</string>
+    <string name="protection_paused">防护已暂停</string>
+    <string name="vpn_channel_name">防护运行通知</string>
+    <string name="vpn_channel_desc">显示实时广告拦截状态与后台保活通知</string>
+</resources>
